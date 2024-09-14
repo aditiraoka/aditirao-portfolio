@@ -1,16 +1,31 @@
 {
   "files": {
-    "main.css": "/aditirao-portfolio/static/css/main.f855e6bc.css",
-    "main.js": "/aditirao-portfolio/static/js/main.359f44bf.js",
-    "static/js/453.f4d0d639.chunk.js": "/aditirao-portfolio/static/js/453.f4d0d639.chunk.js",
-    "static/media/logo.svg": "/aditirao-portfolio/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "main.css": "/aditirao-portfolio/static/css/main.7f82d04c.css",
+    "main.js": "/aditirao-portfolio/static/js/main.2ade1146.js",
+    "static/js/453.466e0666.chunk.js": "/aditirao-portfolio/static/js/453.466e0666.chunk.js",
+    "static/media/Bronze_Award.png": "/aditirao-portfolio/static/media/Bronze_Award.6190d761ddf23438df5a.png",
+    "static/media/profile.jpeg": "/aditirao-portfolio/static/media/profile.3c0107bd54d2c4fc758c.jpeg",
+    "static/media/myProfile.jpg": "/aditirao-portfolio/static/media/myProfile.f76f622a0e2ac62640cd.jpg",
+    "static/media/GHC.jpg": "/aditirao-portfolio/static/media/GHC.a6453362059434babf2f.jpg",
+    "static/media/Aditirao_Resume.pdf": "/aditirao-portfolio/static/media/Aditirao_Resume.64f784842b611ce65c71.pdf",
+    "static/media/girl-coding.png": "/aditirao-portfolio/static/media/girl-coding.8b54a7753a563d9c3ef1.png",
+    "static/media/sentiment.png": "/aditirao-portfolio/static/media/sentiment.5eee4b60ca928295dae0.png",
+    "static/media/dance.jpeg": "/aditirao-portfolio/static/media/dance.0b9114b4f689846fcfdb.jpeg",
+    "static/media/about.png": "/aditirao-portfolio/static/media/about.95373e50b670f9123458.png",
+    "static/media/lstm.png": "/aditirao-portfolio/static/media/lstm.ae09526aad01bdb5bb3d.png",
+    "static/media/chroma.cjs": "/aditirao-portfolio/static/media/chroma.271634d07525ddfb33b4.cjs",
+    "static/media/bigfive.png": "/aditirao-portfolio/static/media/bigfive.4c35d48e317df03ddf14.png",
+    "static/media/home-bg.jpg": "/aditirao-portfolio/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
+    "static/media/pottery.png": "/aditirao-portfolio/static/media/pottery.42f191f07a45c5591b8f.png",
+    "static/media/libCatalogue.png": "/aditirao-portfolio/static/media/libCatalogue.ce845de7f895ccea22cc.png",
+    "static/media/pre.svg": "/aditirao-portfolio/static/media/pre.4410c5baaa673cc131da.svg",
     "index.html": "/aditirao-portfolio/index.html",
-    "main.f855e6bc.css.map": "/aditirao-portfolio/static/css/main.f855e6bc.css.map",
-    "main.359f44bf.js.map": "/aditirao-portfolio/static/js/main.359f44bf.js.map",
-    "453.f4d0d639.chunk.js.map": "/aditirao-portfolio/static/js/453.f4d0d639.chunk.js.map"
+    "main.7f82d04c.css.map": "/aditirao-portfolio/static/css/main.7f82d04c.css.map",
+    "main.2ade1146.js.map": "/aditirao-portfolio/static/js/main.2ade1146.js.map",
+    "453.466e0666.chunk.js.map": "/aditirao-portfolio/static/js/453.466e0666.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f855e6bc.css",
-    "static/js/main.359f44bf.js"
+    "static/css/main.7f82d04c.css",
+    "static/js/main.2ade1146.js"
   ]
 }
