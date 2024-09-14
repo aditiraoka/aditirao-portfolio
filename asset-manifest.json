@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/aditirao-portfolio/static/css/main.f855e6bc.css",
+    "main.js": "/aditirao-portfolio/static/js/main.359f44bf.js",
+    "static/js/453.f4d0d639.chunk.js": "/aditirao-portfolio/static/js/453.f4d0d639.chunk.js",
+    "static/media/logo.svg": "/aditirao-portfolio/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/aditirao-portfolio/index.html",
+    "main.f855e6bc.css.map": "/aditirao-portfolio/static/css/main.f855e6bc.css.map",
+    "main.359f44bf.js.map": "/aditirao-portfolio/static/js/main.359f44bf.js.map",
+    "453.f4d0d639.chunk.js.map": "/aditirao-portfolio/static/js/453.f4d0d639.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.359f44bf.js"
+  ]
+}
