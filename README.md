@@ -1,5 +1,5 @@
 ## Portfolio Website
-  Checkout the [website](https://www.aditiraokalanji.com/)\
+  Checkout the [website](https://aditiraoka.github.io/)\
   or the [GitHub](https://aditiraoka.github.io/) link
 
 ## TL;DR
